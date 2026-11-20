@@ -1,6 +1,6 @@
 ## CLOUD-DATA-STORAGE-SERVER
-## NAME: Stephen raj Y
-## REG NO: 212223230217
+## NAME: Viswapriya S
+## REG NO: 212225230311
 ## Aim:
 To create and configure an Amazon Relational Database Service (Amazon RDS) instance as a cloud data storage server, configure the required security settings, connect it to a web application, and perform database operations using the application.
 
@@ -45,6 +45,15 @@ After submitting the above details, perform Add, Edit, and Delete operations on 
 
 <img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b9f344d0-274d-413e-941d-917d8e14d6a0" />0
 <img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/c858d84b-cc90-40d8-bbea-faf121e7629f" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/f9aba9b9-eef8-4a18-8d4b-9faf1cc4dd31" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/24cf9982-b22b-4863-94c6-814909f7ffc9" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/85de38ae-0914-4617-9989-c4c04820304d" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/2c13c641-543e-4dfc-abdb-038fb6eb6898" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4f096492-f93e-446b-8353-5eb2c0932fb0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/733f3eaf-7d41-47f4-94d9-7bbe1e366133" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8477e4d-f4d1-423b-b513-242c7bb51802" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c85cf284-8246-42ff-925c-d6135bdaa55a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fae81084-0b3f-4490-8c4f-c6ab63ea5eac" />
 
 
 
